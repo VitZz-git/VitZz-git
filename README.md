@@ -2,11 +2,25 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWQycmZtenZ1ODBvNG9lbDgwZHBhNWQwbDA5bHF5aGw5bWR4MWxidyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26ufedtLS3Gnw3LC8/giphy.gif" width="220">
 </p>
 
-<h2 align="center">Be Welcome! :)</h2>
+<p align="center">
+  I am 18 years old and deeply passionate about programming.  
+  I am constantly striving to become the best version of myself, embracing mistakes  
+  as part of the learning process and growing through every challenge I face.
+</p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:seuemail@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
  👨‍💻 About Me
-
-- 👋 My name is **Vitor Hugo dos Santos**, 18 years old  
+ 
 - 🎓 Graduated in **Systems Development** from **Cedup Hermann Hering**  
 - 📜 Certified in **Java: From Zero to Professional** — Leonardo Moura Leitão(77 hours)
 -  🌍 Proficient in **English** (upper-intermediate to advanced level)  
