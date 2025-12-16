@@ -17,13 +17,13 @@
 
 ### 📊 GitHub Activity
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=github-dark)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=vitZz-git&theme=github-dark)
 
 ---
 
 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VitZz-git&show_icons=true&theme=tokyonight)
 
 ---
 
