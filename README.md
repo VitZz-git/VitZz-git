@@ -1,5 +1,5 @@
 <h2 align="center">Hello, my name is Vitor Hugo</h2>
-<p align="center"><code>[ software developer ]</code></p>>
+<p align="center"><code>software developer</code></p>
 
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWQycmZtenZ1ODBvNG9lbDgwZHBhNWQwbDA5bHF5aGw5bWR4MWxidyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26ufedtLS3Gnw3LC8/giphy.gif" width="300"/>
