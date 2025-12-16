@@ -4,8 +4,6 @@
 
 <h2 align="center">Be Welcome! :)</h2>
 
----
-
 ### 👨‍💻 About Me
 
 - 👋 My name is **Vitor Hugo dos Santos**, 18 years old  
@@ -13,12 +11,6 @@
 - 🚀 Disciplined, focused, and consistent  
 - 📚 Committed to deep learning, without procrastination  
 - 🎯 Daily improvement and well-written code
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="220">
-</p>
 
 ---
 
