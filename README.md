@@ -70,18 +70,6 @@
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### Contribution Timeline (Movie Edition)
-
-| Movie 🎬 | Year | Contribution 🧩 | Description |
-|--------|------|------------------|-------------|
-| The Matrix | 1999 | 🟩🟩🟩🟩 | Breaking reality and mastering the fundamentals |
-| Inception | 2010 | 🟩🟩🟩 | Deep focus, complex logic, and layered thinking |
-| Interstellar | 2014 | 🟩🟩🟩🟩🟩 | Long-term vision and problem-solving beyond limits |
-| Fight Club | 1999 | 🟩🟩 | Learning through mistakes and rebuilding better |
-| Mr. Robot | 2015 | 🟩🟩🟩🟩 | Discipline, hacking mindset, and clean code |
-| Blade Runner | 1982 | 🟩🟩🟩 | Technology, ethics, and human complexity |
-
-
 🎯 Philosophy
 
 > Consistency beats talent when talent is not consistent.
