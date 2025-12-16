@@ -13,10 +13,10 @@
 - 🎯 Daily improvement and well-written code
 
 ---
-
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="200">
+  <img src="https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif" width="240">
 </p>
+
 
 ---
 
