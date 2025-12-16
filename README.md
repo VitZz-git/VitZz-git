@@ -14,6 +14,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="200">
+</p>
+
+---
+
 ### 📊 GitHub Activity
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=github-dark)
