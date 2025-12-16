@@ -1,5 +1,7 @@
+<h2 align="center">Hello, I'm Vitor Hugo</h2>
+
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWQycmZtenZ1ODBvNG9lbDgwZHBhNWQwbDA5bHF5aGw5bWR4MWxidyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26ufedtLS3Gnw3LC8/giphy.gif" width="220">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWQycmZtenZ1ODBvNG9lbDgwZHBhNWQwbDA5bHF5aGw5bWR4MWxidyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26ufedtLS3Gnw3LC8/giphy.gif" width="300"/>
 </p>
 
 <p align="center">
@@ -9,16 +11,17 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/" target="_blank">
+  <a href="https://www.linkedin.com/in/vitor-hugo-dos-santos-04a7b6339/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:seuemail@gmail.com">
+  <a href="mailto:SEU_EMAIL_AQUI">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/" target="_blank">
+  <a href="https://www.instagram.com/vts.hugo/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
+
  👨‍💻 About Me
  
 - 🎓 Graduated in **Systems Development** from **Cedup Hermann Hering**  
