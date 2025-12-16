@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=9370DB&height=180&section=header)
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWQycmZtenZ1ODBvNG9lbDgwZHBhNWQwbDA5bHF5aGw5bWR4MWxidyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26ufedtLS3Gnw3LC8/giphy.gif" width="220">
+</p>
 
 <h2 align="center">Be Welcome! :)</h2>
 
