@@ -9,7 +9,7 @@
 - 👋 My name is **Vitor Hugo dos Santos**, 18 years old  
 - 🎓 Graduated in **Systems Development** from **Cedup Hermann Hering**  
 - 📜 Certified in **Java: From Zero to Professional** — Leonardo Moura Leitão(77 hours)
-- - 🌍 Proficient in **English** (upper-intermediate to advanced level)  
+-  🌍 Proficient in **English** (upper-intermediate to advanced level)  
 - 🚀 Disciplined, focused, and consistent  
 - 📚 Committed to deep learning and continuous improvement  
 - 🎯 Daily evolution and well-written code
