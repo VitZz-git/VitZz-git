@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  I am 18 years old and deeply passionate about programming.  
-  I am constantly striving to become the best version of myself, embracing mistakes  
+  I am 18 years old and deeply passionate about programming.<br>
+  I am constantly striving to become the best version of myself, embracing mistakes<br>
   as part of the learning process and growing through every challenge I face.
 </p>
 
@@ -16,35 +16,39 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:vitorhugodossantos18042007@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
   <a href="https://www.instagram.com/vts.hugo/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
- 👨‍💻 About Me
- 
-- 🎓 Certified in **Systems Development** from **Cedup Hermann Hering**  
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Certified in **Systems Development** from **Cedup Hermann Hering**
 - 📜 Certified in **Java: From Zero to Professional** — Leonardo Moura Leitão (77 hours)
--  🌍 Proficient in **English** (upper-intermediate to advanced level)  
-- 🚀 Disciplined, focused, and consistent  
-- 📚 Committed to deep learning and continuous improvement  
-- 🎯 Daily evolution and well-written code
-
----
-### 📊 GitHub Activity
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=VitZz-git&theme=github-dark)
+- 🌍 Proficient in **English** (upper-intermediate to advanced)
+- 🚀 Disciplined, focused, and consistent
+- 📚 Committed to deep learning and continuous improvement
+- 🎯 Daily evolution and clean, well-written code
 
 ---
 
-📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VitZz-git&show_icons=true&theme=tokyonight)
+## 📊 GitHub Activity
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=VitZz-git&theme=github-dark&cache_seconds=86400)
 
 ---
 
+## 📈 GitHub Stats
 
-### Technical Skills
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VitZz-git&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=86400)
+
+---
+
+## 🛠️ Technical Skills
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
@@ -64,10 +68,13 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-🎯 Philosophy
+---
+
+## 🎯 Philosophy
 
 > Consistency beats talent when talent is not consistent.
 
 ---
 
 ⭐ Feel free to explore my repositories and follow my journey.
+
