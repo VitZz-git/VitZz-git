@@ -44,9 +44,12 @@
 
 ### 🔥 My Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitZz-git&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=VitZz-git&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=VitZz-git&theme=dark&background=000000)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=VitZz-git&theme=dark&background=000000)
+
+
 
 
 ## 🛠️ Technical Skills
