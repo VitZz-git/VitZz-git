@@ -44,8 +44,10 @@
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=VitZz-git&show_icons=true&theme=tokyonight)
 
+### :fire: My Stats :
+https://github-readme-streak-stats.herokuapp.com/?user=your-github-username
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ---
 
