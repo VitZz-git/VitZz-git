@@ -44,10 +44,10 @@
 
 ### 🔥 My Stats
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitZz-git&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=VitZz-git&theme=dark&background=000000)
 
-
----
 
 ## 🛠️ Technical Skills
 
