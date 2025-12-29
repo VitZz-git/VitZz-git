@@ -42,12 +42,10 @@
 
 ---
 
-## 📈 GitHub Stats
+### 🔥 My Stats
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=VitZz-git&theme=dark&background=000000)
 
-### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=your-github-VitZz-git
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-VitZz-git&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ---
 
